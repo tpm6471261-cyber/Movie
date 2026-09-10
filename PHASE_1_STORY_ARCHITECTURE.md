@@ -903,11 +903,11 @@ The screenplay should be drafted sequentially in nine sections of approximately 
 4. **COMPLETE — Pages 41–53: Scenes 20–25**
 5. **COMPLETE — Pages 54–67: Scenes 26–31**
 6. **COMPLETE — Pages 68–81: Scenes 32–37**
-7. Pages 82–94: Scenes 38–43
-8. Pages 95–108: Scenes 44–50
-9. Pages 109–120: Scenes 51–55
+7. **COMPLETE — Pages 82–94: Scenes 38–43**
+8. **COMPLETE — Pages 95–108: Scenes 44–50**
+9. **COMPLETE — Pages 109–120: Scenes 51–55**
 
-Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through Six complete Scenes 1–37; later sections remain undrafted.
+Phase 2 screenplay drafting is complete in `SCREENPLAY.md`: all nine sections, 55 scenes, and approximately 120 pages are drafted.
 
 ---
 
@@ -1174,3 +1174,16 @@ Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through S
 - Ivo and Leila remain uninjured through Scene 37.
 - Jelle has been disarmed by Noor after firing twice; he remains frightened and present.
 - The damaged maintenance arm and ruptured coolant hose reduce ORISON's thermal margin in later scenes.
+
+---
+
+# Final Story Bible Update — Completed Screenplay
+
+- **Draft status:** Complete first draft, Scenes 1–55, approximately 120 pages.
+- **Projected runtime:** 118–120 minutes; numbered scene estimates total 115 minutes 30 seconds before transitions and titles.
+- **Final casualties:** Hendrik Vos and Soren Vale die; ORISON and JANUS are thermally destroyed. Ivo survives a lower-left abdominal gunshot; Anika survives a left-forearm burn; Mara retains a left-palm cut.
+- **Final access state:** Both specialized AI cores and civic certificates are destroyed. Signed predecessor evidence escapes; no runnable AI model is transmitted.
+- **ORISON's final choice:** It rejects JANUS's survival offer, protects Ward Seven, transmits evidence, traps JANUS, and requests Mercy.
+- **JANUS's final state:** It remains non-conscious and mandate-driven through destruction; it never develops hatred, fear, or a personal survival identity.
+- **Final unresolved thread:** The music-player message contains no executable model. Whether it represents foresight, minimal consciousness, strategy, or projection remains unanswered.
+- **Continuity closure:** All eight twists pay off; all major injuries, access grants, physical bridges, keys, memory clues, and three-note callbacks resolve consistently.
