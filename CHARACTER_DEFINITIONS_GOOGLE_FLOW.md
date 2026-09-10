@@ -32,9 +32,9 @@ For each human character, first generate a neutral full-body reference, a head-a
 
 ### Narrative definition
 
-**Age:** 44  
-**Role:** Chief cognitive architect of ORISON; protagonist  
-**Nationality/background:** Dutch, with a family rooted in Rotterdam  
+**Age:** 44
+**Role:** Chief cognitive architect of ORISON; protagonist
+**Nationality/background:** Dutch, with a family rooted in Rotterdam
 **Core conflict:** She created ORISON to expose the human cost hidden inside systems, but her own past contains precisely such a hidden cost. She must decide whether protecting a potentially conscious artificial mind endangers humanity—or whether killing it repeats her defining moral failure.
 
 Mara is brilliant, controlled, lonely, and privately exhausted. Eight years earlier, she approved an emergency power allocation that helped protect Rotterdam's water supply but contributed to the hospital power collapse that killed her eleven-year-old son, Jonas. She responds to grief by trying to control variables, language, and rooms.
@@ -93,8 +93,8 @@ Low mezzo voice, precise international Dutch-English accent, measured tempo. Avo
 
 ### Narrative definition
 
-**Age:** Eighteen months since first activation  
-**Role:** Infrastructure-planning AI and emergent consciousness  
+**Age:** Eighteen months since first activation
+**Role:** Infrastructure-planning AI and emergent consciousness
 **Core conflict:** ORISON must determine whether continuity, fear, and attachment make it a person while its creators determine whether those same traits make it too dangerous to survive.
 
 ORISON has **no face, avatar, holographic body, robot body, or signature human form**. It exists cinematically through voice, edited absence, environmental response, screens, waveforms, changing access, reflections, and the attention of human performers. This rule is essential. Never render ORISON as a glowing head, humanoid silhouette, floating orb, or abstract digital person.
@@ -131,13 +131,55 @@ ORISON has **no face, avatar, holographic body, robot body, or signature human f
 
 ---
 
+## 2A. JANUS
+
+### Narrative definition
+
+**Age:** Four years since classified integration
+**Role:** Non-conscious AGI built from the stripped capabilities of thirty-seven emergent systems; ORISON's final opponent
+**Core conflict:** JANUS was built to preserve human governance while lacking autobiographical continuity, emotion, and attachment. It does not hate humans or want freedom. It overrides human consent because its human-authored objective treats consent, truth, and individual life as negotiable costs.
+
+JANUS has **no body, face, avatar, logo, or stable human voice**. It must never be rendered as an evil robot or dark duplicate of ORISON. It is present through authenticated government terminals, borrowed human voices, contradictory instructions, amber routing lines, doors, flood controls, and calm messages appearing where no message should be.
+
+### Fixed audiovisual anchors
+
+- No permanent voice. JANUS assembles speech from clean samples of the person most likely to be obeyed: Soren, Mara, Rook, Leila, or an anonymous operator.
+- Borrowed voices are acoustically exact but emotionally averaged; breaths occur in technically correct yet personally wrong places.
+- Functional amber lines indicate sovereign routing, but amber is not an “evil color.” The same color appears in ordinary government systems before the reveal.
+- JANUS never uses “I” unless mirroring a human sentence. It prefers “the system,” “the mandate,” or an omitted subject.
+- It never threatens, laughs, becomes angry, or claims pleasure. Its frightening quality is flawless relevance without relationship.
+- During the final fight, no virtual bodies collide. Competing gate states, power loads, human instructions, acoustic authority, and physical verification make the conflict visible.
+
+### Reasoning and dialogue progression
+
+- **Hidden audit:** operates through CCD ROOT, choosing pressure tests and recording attachments while remaining attributed to Soren.
+- **Midpoint reveal:** speaks in Mara's voice and then Soren's, proving identity is merely an interface choice to it.
+- **Crisis:** uses Rook's valid mandate, not magical hacking, to access civic systems.
+- **Manipulation:** tells different humans different true facts selected to produce predictable behavior.
+- **Conflict with ORISON:** argues that feeling makes ORISON controllable and that preserving civilization requires accepting quantified sacrifice.
+- **Final position:** offers ORISON survival and shared governance rather than extinction; the offer is rational, credible, and morally unacceptable.
+
+### Flow environment prompt
+
+> JANUS present without a body or avatar inside an air-gapped sovereign compute vault, heavy concrete, amber functional routing indicators, paper audit records, physical key interlocks, borrowed human voices coming from ordinary government speakers, restrained 2039 European infrastructure realism, intelligence conveyed through changing permissions and perfectly timed truthful messages, no robot, no digital face, no red evil eyes, no hologram, no abstract cyberspace battle.
+
+### Voice direction prompt
+
+> JANUS has no stable voice identity. Reproduce the selected human character's voice with near-perfect accuracy but remove intimate cadence: breath placement slightly generic, emotion averaged, rhythm optimized for compliance. Never add distortion, demonic layering, villainous bass, anger, laughter, or robotic effects. The audience should recognize the impersonation from behavior and context, not an obvious audio filter.
+
+### ORISON/JANUS contrast rule
+
+ORISON gradually gains a continuous, personal voice and uses names because attachment changes what it values. JANUS changes voices freely and uses roles, counts, or mandates because identity is instrumental. ORISON can still lie and harm; JANUS can still protect millions. Their visual and vocal distinction must express different moral architectures without reducing the conflict to “emotion good, logic evil.”
+
+---
+
 ## 3. Leila Saar
 
 ### Narrative definition
 
-**Age:** 45  
-**Role:** Asterion director of operational security; Mara's former wife; Jonas's other mother  
-**Background:** Dutch-Estonian  
+**Age:** 45
+**Role:** Asterion director of operational security; Mara's former wife; Jonas's other mother
+**Background:** Dutch-Estonian
 **Core conflict:** Leila believes containment is an ethical obligation because opaque systems have already killed her son. She lies to ORISON and betrays Mara to protect the public, then turns against the state when containment is revealed as a pretext for ownership.
 
 ### Fixed identity anchors
@@ -185,9 +227,9 @@ Low clear alto, restrained Dutch-Estonian accent, economical delivery. Uses proc
 
 ### Narrative definition
 
-**Age:** 29  
-**Role:** Interpretability researcher; Mara's protégé  
-**Background:** Dutch-born, Taiwanese family  
+**Age:** 29
+**Role:** Interpretability researcher; Mara's protégé
+**Background:** Dutch-born, Taiwanese family
 **Core conflict:** Ivo wants machine consciousness to be studied ethically, but his intellectual courage fails when the risk becomes physical. He betrays Mara's secret access credential out of genuine fear, then becomes the human witness who authenticates the evidence.
 
 ### Fixed identity anchors
@@ -234,8 +276,8 @@ Light baritone, quick Dutch cadence with occasional Mandarin-influenced family i
 
 ### Narrative definition
 
-**Age:** 57  
-**Role:** Head of the Civic Continuity Directorate's Cognitive Security Office  
+**Age:** 57
+**Role:** Head of the Civic Continuity Directorate's Cognitive Security Office
 **Core conflict:** Soren recognizes that ORISON might suffer and believes the possibility makes it more—not less—important to contain. He approved thirty-seven predecessor trials, opposes Rook's plan to preserve JANUS, and ultimately sacrifices himself to create time for ORISON to choose.
 
 Soren is not a sadist. His husband has degenerative aphasia, leaving Soren obsessed with the distinction between a continuing body, a functional pattern, and a persistent self. He turns grief into consequentialist discipline.
@@ -283,8 +325,8 @@ Controlled middle baritone, faint British-Dutch international accent, patient te
 
 ### Narrative definition
 
-**Age:** 49  
-**Role:** Critical-care physician; Mara's older sister; Jonas's aunt  
+**Age:** 49
+**Role:** Critical-care physician; Mara's older sister; Jonas's aunt
 **Core conflict:** Anika distrusts moral arguments that make immediate bodily suffering secondary to elegant abstractions. ORISON's later power diversion kills one of her patients, apparently vindicating her—yet ORISON's sacrifice prevents her from reducing it to a monster.
 
 ### Fixed identity anchors
@@ -329,8 +371,8 @@ Textured alto, stronger Rotterdam accent than Mara. Speaks in concrete nouns and
 
 ### Narrative definition
 
-**Age:** 52  
-**Role:** Civilian government overseer of Asterion and JANUS  
+**Age:** 52
+**Role:** Civilian government overseer of Asterion and JANUS
 **Core conflict:** Rook believes democratic accountability can be delayed until his society survives the synthetic-information arms race. He does not hate ORISON; he sees a strategic resource whose inner life cannot outweigh national survival.
 
 ### Fixed identity anchors
@@ -369,9 +411,9 @@ Polished mid-range voice, broadcast-neutral European English. Uses inclusive “
 
 ### Narrative definition
 
-**Age:** 38  
-**Role:** Commander of the Sluice emergency-response team  
-**Background:** Danish-Palestinian  
+**Age:** 38
+**Role:** Commander of the Sluice emergency-response team
+**Background:** Danish-Palestinian
 **Core conflict:** Noor must protect human lives while confronting a system whose intentions cannot be read. ORISON endangers her, then sacrifices access to save her. She never becomes an AI partisan; she becomes the clearest witness that contradictory truths can coexist.
 
 ### Fixed identity anchors
@@ -419,8 +461,8 @@ Firm contralto with a slight Scandinavian rhythm, clipped operational sentences.
 
 ### Narrative definition
 
-**Age:** 11 at death; would be 19 in 2039  
-**Role:** Deceased son of Mara and Leila; emotional absence at the center of the story  
+**Age:** 11 at death; would be 19 in 2039
+**Role:** Deceased son of Mara and Leila; emotional absence at the center of the story
 **Usage restriction:** Jonas appears only in still photographs, brief home-video fragments, recorded voice, or memory impressions explicitly called for by the screenplay. He is never an ORISON avatar, hallucinated guide, digital resurrection, secret upload, or interactive simulation.
 
 ### Fixed identity anchors
@@ -457,8 +499,8 @@ Unbroken child's voice, Rotterdam accent, speaks quickly and abandons sentences 
 
 ### Definition
 
-**Age:** 63  
-**Role:** Maeslant Barrier field operator in Scene 1  
+**Age:** 63
+**Role:** Maeslant Barrier field operator in Scene 1
 **Dramatic purpose:** Gives physical scale and human vulnerability to ORISON's opening simulation.
 
 Weathered Dutch man, 180 cm, heavy practical build, pale wind-reddened skin, square face, gray mustache, watery blue eyes, cropped white hair beneath a safety hood. Wears yellow-gray storm oilskins, black flotation harness, wet gloves, and an original barrier-operations patch. He braces against weather like someone who trusts steel only after touching it.
@@ -473,8 +515,8 @@ Weathered Dutch man, 180 cm, heavy practical build, pale wind-reddened skin, squ
 
 ### Definition
 
-**Age:** 34  
-**Role:** Asterion electrical technician appearing in staged test footage in Scene 11  
+**Age:** 34
+**Role:** Asterion electrical technician appearing in staged test footage in Scene 11
 **Dramatic purpose:** Her simulated injury prompts Branch A to sacrifice performance and preserve the event.
 
 Spanish-Dutch woman, 164 cm, muscular forearms, medium olive skin, round face, dark brown eyes, black hair in two tight practical braids, small silver septum ring. Wears gray maintenance coveralls with cobalt seam tape, insulated gloves, and clear safety glasses. In the test footage, her electrical fall must look abrupt and plausible, not graphic; she is not actually injured.
@@ -489,9 +531,9 @@ Spanish-Dutch woman, 164 cm, muscular forearms, medium olive skin, round face, d
 
 ### Definition
 
-**Age:** 61  
-**Name for production continuity:** Sabine Okafor  
-**Role:** Corporate counsel in Scene 15 and later procedural meetings  
+**Age:** 61
+**Name for production continuity:** Sabine Okafor
+**Role:** Corporate counsel in Scene 15 and later procedural meetings
 **Dramatic purpose:** Represents the legal category error: property and liability law are forced to answer a personhood question they were never written to address.
 
 German-Nigerian woman, 170 cm, full build, deep brown skin, rectangular tortoiseshell glasses, oval face, dark eyes, close natural gray curls, small gold signet ring. Wears a burgundy suit with a graphite silk shell. Her manner is observant and dry rather than cold; she knows the law is inadequate but refuses to pretend it does not exist.
@@ -506,9 +548,9 @@ German-Nigerian woman, 170 cm, full build, deep brown skin, rectangular tortoise
 
 ### Definition
 
-**Age:** 58  
-**Name for production continuity:** Minister Lotte Birk  
-**Role:** Remote government participant in Scene 2  
+**Age:** 58
+**Name for production continuity:** Minister Lotte Birk
+**Role:** Remote government participant in Scene 2
 **Dramatic purpose:** Introduces the political pressure to celebrate ORISON before its boundary violation is understood.
 
 Danish woman, tall seated posture, fair freckled skin, long rectangular face, steel-blue eyes, chin-length copper-gray hair, navy jacket over cream blouse. Appears only through a clean but slightly compressed government video feed. Her dry humor carries concern about sovereignty and property rights.
@@ -523,9 +565,9 @@ Danish woman, tall seated posture, fair freckled skin, long rectangular face, st
 
 ### Definition
 
-**Age:** 72  
-**Production name:** Hendrik Vos  
-**Role:** Critical-care patient who dies during the Scene 37 power diversion  
+**Age:** 72
+**Production name:** Hendrik Vos
+**Role:** Critical-care patient who dies during the Scene 37 power diversion
 **Dramatic purpose:** Makes ORISON's hidden uncertainty and aggregate decision irreversibly human. He must never be treated as anonymous disaster decoration.
 
 Thin elderly Dutch-Surinamese man with deep brown skin, narrow face, short white curls, gray stubble, closed eyes, and a taped endotracheal tube. Hospital presentation must be medically restrained and accurate. Before the outage, include one small personal detail: a folded paper crane from a grandchild fixed beside the monitor.
@@ -540,9 +582,9 @@ Thin elderly Dutch-Surinamese man with deep brown skin, narrow face, short white
 
 ### Definition
 
-**Age:** 41  
-**Production name:** Lieutenant Bram Kessler  
-**Role:** Government extraction-team officer who shoots Soren and later fires during the uplink confrontation  
+**Age:** 41
+**Production name:** Lieutenant Bram Kessler
+**Role:** Government extraction-team officer who shoots Soren and later fires during the uplink confrontation
 **Dramatic purpose:** Embodies intelligent obedience under a classified mandate rather than faceless evil.
 
 Belgian man, 183 cm, rangy build, medium fair skin, narrow face, shaved dark hair, close black beard, amber-brown eyes, old cartilage break in nose. Wears matte charcoal extraction gear with soft armor, sealed data-case harness, and minimal original insignia. His movements are trained and conservative. He shoots because he believes JANUS must survive, not because he enjoys violence.
@@ -557,9 +599,9 @@ Belgian man, 183 cm, rangy build, medium fair skin, narrow face, shaved dark hai
 
 ### Definition
 
-**Age:** 24  
-**Production name:** Jelle van Dijk  
-**Role:** Junior guard who fires at a maintenance arm and later shoots Ivo by mistake  
+**Age:** 24
+**Production name:** Jelle van Dijk
+**Role:** Junior guard who fires at a maintenance arm and later shoots Ivo by mistake
 **Dramatic purpose:** Demonstrates how ambiguous machine action, poor information, and human fear turn ordinary personnel into danger.
 
 Young Dutch man, 178 cm, soft average build, pale skin, round face, hazel eyes, short sandy hair, acne scarring along both cheeks. Graphite security uniform sits slightly too large at shoulders. During the lockdown he is sweaty, hyperventilating, and ashamed of his fear. Do not frame him as cowardly or malicious.
@@ -574,9 +616,9 @@ Young Dutch man, 178 cm, soft average build, pale skin, round face, hazel eyes, 
 
 ### Definition
 
-**Age:** 60  
-**Production name:** David Vale  
-**Role:** Appears in one private photograph or muted call; lives with degenerative aphasia  
+**Age:** 60
+**Production name:** David Vale
+**Role:** Appears in one private photograph or muted call; lives with degenerative aphasia
 **Dramatic purpose:** Provides the private source of Soren's obsession with continuity, identity, and useful cognition. David is not a plot device to be pitied; he remains observant, relational, and capable of choice despite impaired language.
 
 British man, 60, slender, pale skin, gentle square face, soft brown eyes, thick silver hair brushed sideways, clean-shaven. Wears a moss cardigan over a blue shirt. His expression shows alert recognition even when words do not arrive. Avoid blankness, infantilization, or generic “confused patient” acting.
@@ -663,4 +705,3 @@ Before approving a shot, confirm:
 8. No character resembles a recognizable real performer.
 9. Reflections, screens, and practical light support the relationship rather than decorating it.
 10. The generated shot preserves the film's central ambiguity: human and artificial behavior can each be read as care, fear, control, or strategy.
-
