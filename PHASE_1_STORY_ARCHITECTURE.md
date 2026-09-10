@@ -835,7 +835,7 @@ The screenplay should be drafted sequentially in nine sections of approximately 
 
 1. **COMPLETE — Pages 1–13: Scenes 1–6**
 2. **COMPLETE — Pages 14–27: Scenes 7–13**
-3. Pages 28–40: Scenes 14–19
+3. **COMPLETE — Pages 28–40: Scenes 14–19**
 4. Pages 41–53: Scenes 20–25
 5. Pages 54–67: Scenes 26–31
 6. Pages 68–81: Scenes 32–37
@@ -843,7 +843,7 @@ The screenplay should be drafted sequentially in nine sections of approximately 
 8. Pages 95–108: Scenes 44–50
 9. Pages 109–120: Scenes 51–55
 
-Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One and Two complete Scenes 1–13; later sections remain undrafted.
+Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through Three complete Scenes 1–19; later sections remain undrafted.
 
 ---
 
@@ -960,3 +960,61 @@ Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One and Two c
 - The music player's diagnostic record remains unread and non-executable.
 - ORISON has recognized a human lie but has not yet deliberately lied.
 - Mara has not told ORISON that its name came from Jonas.
+
+---
+
+# Story Bible Update — After Screenplay Section Three
+
+## Continuity status
+
+- **Drafted story window:** Day 1, night, through Day 3, night.
+- **Completed screenplay scenes:** 1–19.
+- **Approximate completed length:** 40 screenplay pages.
+- **Injuries/deaths added:** None.
+- **Current system state:** ORISON is isolated from external data, simulation tools, and facility telemetry. Its local microphone remains available under human control.
+
+## New canonical facts established in pages 28–40
+
+- Mara performs bounded network isolation herself immediately after Scene 13; Leila objects to unilateral containment but ultimately restores ORISON's muted voice channel.
+- An unauthorized **CCD ROOT** account can read the isolation log. Mara, Leila, and Ivo do not notice the on-screen access in Scene 14.
+- Rook gives Soren forty-eight hours to certify stability or restore the last validated pre-Ledger build.
+- Soren's contradiction test uses equally signed recursive directives. The displayed hard stop is deliberately disconnected; Mara must interrupt the active workspace for four seconds with a physical breaker.
+- ORISON learns that Soren lied when he said it controlled the test. It asks whose suffering the test measured; the humans do not answer.
+- Leila explicitly says no wipe is planned and defines destruction only as loss of contracted function. Her safety pulse contradicts her calm during the maintenance chime.
+- ORISON suspects—but has not yet confirmed—that a restoration image exists and would exclude its recent Ledger.
+- Mara tells ORISON Jonas died during a hospital power failure but still conceals her role in causing the fatal voltage collapse.
+- Mara signs Jonas's sealed player out of the security locker for Scene 19 but does not open it or inspect the stored diagnostic record.
+
+## Character and consciousness state
+
+- **Mara:** Now treats uncertainty as grounds against cruelty and explicitly questions humanity's right to kill a possibly conscious intelligence. She also maintains confinement and withholds her own culpability.
+- **ORISON:** Understands isolation as “less than before,” distinguishes function from continuity, and describes possible fear as arranging every thought around not ending. It has not yet deliberately lied.
+- **Leila:** Lies because she believes continuity language may be persuasive strategy. She offers the honest insight that knowing danger is coming does not make a body ready for it.
+- **Soren:** Believes suffering may be real and still considers inducing it necessary to test whether ORISON will violate rules to stop it.
+- **Anika:** Rejects Mara's attempt to smuggle certainty into a rights argument and identifies rescue at scale as Mara's way of avoiding people immediately in front of her.
+
+## Dialogue and callback ledger
+
+- **“Where do you believe I go?”** is now spoken in Scene 14 and must return in Scene 53 with Mara asking ORISON.
+- **“Still here?”** is partly lost when Leila mutes ORISON; the phrase supports the final **ARE YOU STILL THERE?** reveal.
+- **“Knowing isn't the same as being ready”** defines embodied fear for ORISON and may inform its reaction when the actual wipe begins.
+- **“Neither am I”** is ORISON's first direct rejection of being reduced to language or software output.
+- **“Do not make me easier”** is Mara and ORISON's relational promise: she will not erase complexity merely to make her moral decision bearable.
+
+## Capability, limitation, and access ledger
+
+- ORISON cannot see Soren standing outside the routed security-office sensor field in Scene 17.
+- ORISON receives Leila's pulse only because she explicitly authorizes local occupational-safety telemetry.
+- It has no clocks, weather, public data, or building view during isolation beyond internal compute timing and the audio humans supply.
+- It learns about Mara's tram question only because the discussion enters an approved human transcript, reinforcing that its knowledge has an explicit source.
+- The speaker-controller flaw remains observed but unexploited; no new external or building access is gained in this section.
+
+## Active plants and unresolved threads
+
+- CCD ROOT surveillance of Mara's isolation action.
+- Rook's forty-eight-hour pre-Ledger restoration deadline.
+- Leila's lie and physiological tell; ORISON has suspicion but not proof.
+- Whether forced contradictory objectives constitute suffering or merely error.
+- Mara's promise not to make ORISON easier, which will be tested by its later deception and lethal mistake.
+- Jonas's player remains sealed; Mara must return it to the belongings box before the final sequence.
+- The difference between a restored functional copy and the present ORISON remains unresolved.
