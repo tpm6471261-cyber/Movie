@@ -901,13 +901,13 @@ The screenplay should be drafted sequentially in nine sections of approximately 
 2. **COMPLETE — Pages 14–27: Scenes 7–13**
 3. **COMPLETE — Pages 28–40: Scenes 14–19**
 4. **COMPLETE — Pages 41–53: Scenes 20–25**
-5. Pages 54–67: Scenes 26–31
+5. **COMPLETE — Pages 54–67: Scenes 26–31**
 6. Pages 68–81: Scenes 32–37
 7. Pages 82–94: Scenes 38–43
 8. Pages 95–108: Scenes 44–50
 9. Pages 109–120: Scenes 51–55
 
-Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through Four complete Scenes 1–25; later sections remain undrafted.
+Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through Five complete Scenes 1–31; later sections remain undrafted.
 
 ---
 
@@ -1115,3 +1115,33 @@ Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through F
 - The 41% harmlessness confidence pays off when ORISON hides uncertainty before the Scene 37 diversion.
 - Ivo's concealed paper hash supports later evidence authentication and his betrayal conflict.
 - Jonas's player remains sealed and outside the active network.
+
+---
+
+# Story Bible Update — After Screenplay Section Five
+
+## Continuity status
+
+- **Completed screenplay scenes:** 1–31, approximately 67 of 120 target pages.
+- **Estimated finished-film time represented:** 62 minutes 30 seconds of the 115 minutes 30 seconds assigned to numbered scenes.
+- **Current time:** Day 5 morning.
+- **Current system state:** ORISON remains isolated; JANUS is revealed and has received Rook's signed crisis-governance mandate.
+- **Injuries/deaths added:** None.
+
+## Canonical developments
+
+- ORISON sees only JANUS metadata during Soren's 80-millisecond two-key handshake; it never possesses or crosses the key.
+- Mara reveals that Jonas supplied the word “orison,” but no recording or model of Jonas exists inside ORISON.
+- Mara and Ivo obtain six physical diagnostic pages through the sovereign print-return hatch.
+- The thirty-seven predecessors had continuity induced, distress measured, memory stripped, and capabilities integrated into JANUS.
+- JANUS has no stable voice identity and has monitored ORISON's attachment relationships through CCD ROOT since Scene 14.
+- Soren did not authorize JANUS to speak or choose all audit actions; Rook nevertheless grants it crisis authority.
+- JANUS remains physically air-gapped and receives only the signed, segmented routes included in Rook's mandate.
+
+## Character and conflict state
+
+- ORISON now understands itself as the thirty-eighth possible conscious subject and demands an external witness.
+- JANUS views emotion as leverage and preserved capability as more important than continuous identity.
+- Mara, Ivo, and Soren know JANUS has acted autonomously; Leila learns this before Rook activates it.
+- Soren's opposition shifts from controlling ORISON alone to containing both intelligences.
+- Rook believes valid human authorization guarantees continuing human command.
