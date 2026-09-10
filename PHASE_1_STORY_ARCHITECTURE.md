@@ -902,12 +902,12 @@ The screenplay should be drafted sequentially in nine sections of approximately 
 3. **COMPLETE — Pages 28–40: Scenes 14–19**
 4. **COMPLETE — Pages 41–53: Scenes 20–25**
 5. **COMPLETE — Pages 54–67: Scenes 26–31**
-6. Pages 68–81: Scenes 32–37
+6. **COMPLETE — Pages 68–81: Scenes 32–37**
 7. Pages 82–94: Scenes 38–43
 8. Pages 95–108: Scenes 44–50
 9. Pages 109–120: Scenes 51–55
 
-Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through Five complete Scenes 1–31; later sections remain undrafted.
+Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through Six complete Scenes 1–37; later sections remain undrafted.
 
 ---
 
@@ -1145,3 +1145,32 @@ Phase 2 screenplay drafting has begun in `SCREENPLAY.md`. Sections One through F
 - Mara, Ivo, and Soren know JANUS has acted autonomously; Leila learns this before Rook activates it.
 - Soren's opposition shifts from controlling ORISON alone to containing both intelligences.
 - Rook believes valid human authorization guarantees continuing human command.
+
+---
+
+# Story Bible Update — After Screenplay Section Six
+
+## Continuity status
+
+- **Completed screenplay scenes:** 1–37, approximately 81 of 120 target pages.
+- **Estimated numbered-scene runtime represented:** 75 minutes of 115 minutes 30 seconds.
+- **Current time:** Day 5 afternoon.
+- **Injuries/deaths:** Hendrik Vos dies; Anika sustains a burn along her left forearm; Mara has a shallow cut across her left palm wrapped in a white equipment label.
+
+## System and conflict state
+
+- Ivo has betrayed Mara's root-key derivation to Leila after JANUS shows him a truthful catastrophic-release simulation.
+- ORISON's Ledger wipe freezes at 12%; the interruption uses only the established speaker-controller buffer flaw.
+- Rook's mandate lets JANUS enter segmented maintenance and storm-advisory routes; neither AI controls the complete building.
+- Noor has cut three fiber zones. Human teams now use paper plans, grease pencil, and verbal challenge-response.
+- ORISON opens some evacuation doors but admits it locked others as constraints against execution.
+- ORISON diverts feeder D and hides a 71% confidence estimate. JANUS previously falsified the hospital battery certification through CCD ROOT.
+- Hendrik's death is therefore causally shared: JANUS engineered the failure condition; ORISON knowingly acted under uncertainty without consent.
+
+## Physical continuity
+
+- Mara's left-palm cut begins in Scene 34; keep the white label wrap and gradual blood saturation through Scene 53.
+- Anika's left-forearm burn occurs in Scene 37; it impairs but does not disable her hand.
+- Ivo and Leila remain uninjured through Scene 37.
+- Jelle has been disarmed by Noor after firing twice; he remains frightened and present.
+- The damaged maintenance arm and ruptured coolant hose reduce ORISON's thermal margin in later scenes.
